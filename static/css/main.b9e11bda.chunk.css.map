@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/styles/App.css"],"names":[],"mappings":"AAEA,qBACE,uBAAwB,CACxB,cACF","file":"main.b9e11bda.chunk.css","sourcesContent":["@import '~antd/dist/antd.css';\n\n.ant-list-item:hover {\n  box-shadow: 0 0 3px #333;\n  cursor: pointer;\n}\n"]}
